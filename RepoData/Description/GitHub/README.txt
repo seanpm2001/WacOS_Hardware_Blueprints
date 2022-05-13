@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+Hardware blueprints for unique WacOS installations, but without vendor lock-in (meaning you can switch to any compatible OS, it does't have to be WacOS)
